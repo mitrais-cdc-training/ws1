@@ -8,8 +8,8 @@
 	"specification": {
 		"scale": "km",	
 		"lenght": 120,
-		"width": 120,
-		"height": 120
+		"width": 150,
+		"height": 2340
         },
 	"price": {
     		"amount": 1000000000000,
