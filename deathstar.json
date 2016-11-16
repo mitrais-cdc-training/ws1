@@ -2,7 +2,9 @@
 	"id": 1,
 	"name": "Death Star",
 	"identifier": "DS-1 platform",
+	"designer": "Geonosians",
 	"commander": "Grand Moff",
+	"affiliation": "galactic empire",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
 	"specification": {
@@ -12,7 +14,10 @@
 		"height": 120
         },
 	"price": {
-    		"amount": 1000000000000,
+    	"amount": 1000000000000,
 		"currency": "galactic credits"
-	}
+	},
+	"Obsolete key": "break things",
+	"new key from f1 branch",
+	"new key from f2 branch"
 }
